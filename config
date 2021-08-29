@@ -51,7 +51,7 @@ padding-right = 3
 module-margin-left = 3
 module-margin-right = 3
 
-font-0 = Droid Sans Mono:style=Regular:pixelsize=10;2
+font-0 = style=Regular:pixelsize=10;2
 #font-1 = Font Awesome 5 Brands Regular:style=Regular:pixelsize=12;2
 font-1 = unifont:fontformat=truetype:size=14:antialias=false;2
 font-2 = siji:style=Regular:pixelsize=24;2
